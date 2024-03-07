@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-jpa, groovy-maven-plus-plugin, h2, http-client, http-client-test, java, java-application, jdbc-hikari, logback, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, openapi, properties, readme, security-annotations, security-oauth2, serialization-jackson, shade, spock, static-resources, swagger-ui]
